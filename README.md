@@ -1,10 +1,7 @@
 <div align="center">
   <img src="client/assets/vroom_logo.png" alt="Vroom Logo" width="200" height="200"/>
-</div>
-
-<p align=center> 
-# Vroom 
-
+  <h1>Vroom</h1>
+  
 A comprehensive mobile application that combines real-time location tracking with social features, allowing users to record their journeys, share travel experiences, and connect with fellow travelers.
 
 ## Overview
